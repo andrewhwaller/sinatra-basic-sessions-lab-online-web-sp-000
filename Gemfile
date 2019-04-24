@@ -9,6 +9,7 @@ gem 'sinatra'
     gem 'shotgun'
     gem 'pry'
     gem 'require_all'
+    get 'securerandom'
     
 group :test do
       gem 'rspec'
